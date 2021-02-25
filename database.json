@@ -1,0 +1,73 @@
+{
+  "users": {
+    "6285156149088@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "badword": 0,
+      "isBanned": false
+    },
+    "6281233107475@s.whatsapp.net": {
+      "exp": 350,
+      "limit": 10,
+      "lastclaim": 0,
+      "badword": 0,
+      "isBanned": false
+    }
+  },
+  "groups": {},
+  "chats": {
+    "6282335353125-1610634926@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "left": false,
+      "nobadword": false,
+      "nolink": false,
+      "novirtex": false,
+      "sWelcome": "",
+      "sBye": ""
+    },
+    "6281907150985-1604118162@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "left": false,
+      "nobadword": false,
+      "nolink": false,
+      "novirtex": false,
+      "sWelcome": "",
+      "sBye": ""
+    },
+    "6282334488875-1584253441@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "left": false,
+      "nobadword": false,
+      "nolink": false,
+      "novirtex": false,
+      "sWelcome": "",
+      "sBye": ""
+    },
+    "6282233322061-1602089802@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "left": false,
+      "nobadword": false,
+      "nolink": false,
+      "novirtex": false,
+      "sWelcome": "",
+      "sBye": ""
+    },
+    "6281233107475@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "left": false,
+      "nobadword": false,
+      "nolink": false,
+      "novirtex": false,
+      "sWelcome": "",
+      "sBye": ""
+    }
+  },
+  "blocked": 0,
+  "banned": 0
+}
